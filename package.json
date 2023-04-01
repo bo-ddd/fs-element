@@ -1,0 +1,12 @@
+{
+  "name": "fs-element",
+  "version": "2.0.0",
+  "description": "大屏可视化项目边框",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
